@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+body {
+    background-color: #f2f2f2 !important;
+}
+
+h1, th {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* NAVBAR */
+.navbar-nav .nav-link.active { 
+    color: blue !important; 
+}
